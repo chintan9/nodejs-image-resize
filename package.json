@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-image-resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chintan9/nodejs-image-resize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chintan9/nodejs-image-resize/issues"
+  },
+  "homepage": "https://github.com/chintan9/nodejs-image-resize#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sharp": "^0.23.4"
+  }
+}
