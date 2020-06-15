@@ -20,6 +20,6 @@
   "homepage": "https://github.com/chintan9/nodejs-image-resize#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "sharp": "^0.24.0"
+    "sharp": "^0.25.4"
   }
 }
